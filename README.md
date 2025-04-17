@@ -84,6 +84,5 @@ To be filled in based on analysis results.
 <br><br>
 
 Tableau Packaged Workbook
-[Link to Tableau .twbx file uploaded in this repository]
-Open this file in Tableau Desktop to explore the dashboards and calculated fields used in the analysis.
+[Download Tableau Workbook](./Project2Tableau.twb) 
 
