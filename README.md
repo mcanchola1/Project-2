@@ -73,7 +73,9 @@ We removed all rows where the Grade column contained letters (e.g., "A1", "MGMT"
 
 Analysis & Results
 Visualizations Created in Tableau:
-To be filled in after visualizations are completed.
+<img width="607" alt="Screenshot 2025-04-17 at 12 11 11 PM" src="https://github.com/user-attachments/assets/ab717199-a6ab-473f-bd30-8a474c04a367" />
+
+<img width="564" alt="Screenshot 2025-04-17 at 12 13 30 PM" src="https://github.com/user-attachments/assets/bc942eab-2408-4752-86f5-6c5e7fe26369" />
 
 <br>
 Key Findings:
