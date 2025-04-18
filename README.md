@@ -79,7 +79,8 @@ Visualizations Created in Tableau:
 
 <br>
 Key Findings:
-To be filled in based on analysis results.
+1. Using a scatterplot, we are visualizing the average base salary in relation to the number of employees a person may have, using the data from Average Salary by Job Classification. 
+2. We are using the data from Average Salary by Job Classification to analyze how  the job grade for a position is increasing or changing,g and has a correlation to the average salary using a line chart. 
 
 <br><br>
 
