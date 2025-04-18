@@ -69,17 +69,21 @@ Uses: Average of Base Salary and Number of Employees columns
 Data Manipulation
 We removed all rows where the Grade column contained letters (e.g., "A1", "MGMT", etc.) instead of being a strictly numeric value. This was necessary to treat grade values as numerical data for correlation analysis and trend plotting. This step ensures that salary comparisons across grades are valid and interpretable in Tableau.
 
-<br><br>
+<br><be>
 
 Analysis & Results
 Visualizations Created in Tableau:
+
+
 <img width="607" alt="Screenshot 2025-04-17 at 12 11 11 PM" src="https://github.com/user-attachments/assets/ab717199-a6ab-473f-bd30-8a474c04a367" />
 
 <img width="564" alt="Screenshot 2025-04-17 at 12 13 30 PM" src="https://github.com/user-attachments/assets/bc942eab-2408-4752-86f5-6c5e7fe26369" />
 
 <br>
 Key Findings:
+
 1. Using a scatterplot, we are visualizing the average base salary in relation to the number of employees a person may have, using the data from Average Salary by Job Classification. 
+
 2. We are using the data from Average Salary by Job Classification to analyze how  the job grade for a position is increasing or changing,g and has a correlation to the average salary using a line chart. 
 
 <br><br>
