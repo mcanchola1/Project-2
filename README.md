@@ -50,7 +50,7 @@ Questions and Importance
 
 Question 1
 
-Is there a relationship between the average base salary of a position and the number of employees in that company?
+Is there a relationship between the average base salary of a position and the number of employees in that position?
 
 Importance:
 Examines how organizations invest in high-volume roles and whether those employees are fairly compensated. Socially relevant for understanding potential undervaluation of essential jobs.
@@ -80,7 +80,7 @@ We removed all rows where the Grade column contained letters (e.g., "A1", "MGMT"
 Analysis & Results
 Visualizations Created in Tableau:
 
-Is there a relationship between the average base salary of a position and the number of employees in that company?
+Is there a relationship between the average base salary of a position and the number of employees in that position?
 
 <img width="607" alt="Screenshot 2025-04-17 at 12 11 11 PM" src="https://github.com/user-attachments/assets/ab717199-a6ab-473f-bd30-8a474c04a367" />
 
