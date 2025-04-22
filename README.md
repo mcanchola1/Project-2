@@ -5,9 +5,10 @@ MIST 4610 11:10 Group 8
 
 <br>
 Team Members
-Arnav Gupta
-Melanie Canchola
-Caroline Pitfield
+
+Arnav Gupta,
+Melanie Canchola,
+Caroline Pitfield,
 Ainsley Myers
 
 <br><br>
