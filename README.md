@@ -86,7 +86,7 @@ Is there a relationship between the average base salary of a position and the nu
 
 Key Findings:
 
-Using a scatterplot, we are visualizing the average base salary in relation to the number of employees a person may have, using the data from Average Salary by Job Classification. We found that there is no significant correlation between the number of employees in a position and the compensation those employees recieve.
+Using a scatterplot, we are visualizing the average base salary in relation to the number of employees with the same position in the county, using the data from Average Salary by Job Classification. We found that there is no significant correlation between the number of employees in a position and the compensation those employees recieve.
 
 Is there a consistent correlation between job grade and average base salary across positions?   
 <img width="564" alt="Screenshot 2025-04-17 at 12 13 30 PM" src="https://github.com/user-attachments/assets/bc942eab-2408-4752-86f5-6c5e7fe26369" />
