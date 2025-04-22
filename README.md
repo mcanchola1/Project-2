@@ -45,6 +45,7 @@ Categorical/Numeric hybrid: Position Class Code
 This dataset provides detailed salary information for various job positions and is suitable for examining patterns of compensation and workforce distribution.
 
 <br><br>
+Questions and Importance
 
 Question 1
 
@@ -57,7 +58,6 @@ Uses: Average of Base Salary and Number of Employees columns
 
 <br>
 
-Questions and Importance
 Question 2
 
 Is there a consistent correlation between job grade and average base salary across positions?
