@@ -15,33 +15,21 @@ Ainsley Myers
 
 Dataset Description
 Dataset Name:
-Average Salary by Job Classification
+Hate Crimes 2017-2025
 
 Source:
-https://catalog.data.gov/dataset/average-salary-by-job-classification
+[https://catalog.data.gov/dataset/average-salary-by-job-classification](https://catalog.data.gov/dataset/hate-crimes-2024)
 
 Dimensions:
 293 rows × 5 columns (after cleaning)
 
 Columns Include:
 
-Position Title – Name of the job role
 
-Position Class Code – Job classification code
-
-Grade – Job grade level
-
-Average of Base Salary – Average base annual salary for the position
-
-Number of Employees – Count of employees in that position
 
 Data Types:
 
-Text: Position Title
 
-Numeric: Grade, Average of Base Salary, Number of Employees
-
-Categorical/Numeric hybrid: Position Class Code
 
 This dataset provides detailed salary information for various job positions and is suitable for examining patterns of compensation and workforce distribution.
 
@@ -50,7 +38,7 @@ Questions and Importance
 
 Question 1
 
-Is there a relationship between the average base salary of a position and the number of employees in that position?
+How does the type of bias in reported hate crimes relate to the age group of the victims and offenders, and how has this relationship changed over time?
 
 Importance:
 Examines how organizations invest in high-volume roles and whether those employees are fairly compensated. Socially relevant for understanding potential undervaluation of essential jobs.
@@ -61,7 +49,7 @@ Uses: Average of Base Salary and Number of Employees columns
 
 Question 2
 
-Is there a consistent correlation between job grade and average base salary across positions?
+During which years did hate crimes involving specific types of bias (e.g., Anti-Black, Anti-Gay, Anti-Jewish) peak, and what patterns emerge when comparing these spikes across time?
 
 Importance:
 Economically and organizationally important to ensure that salary progression aligns with increasing responsibility and expertise. Identifying inconsistencies may expose pay compression or outdated compensation structures.
