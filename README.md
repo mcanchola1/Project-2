@@ -38,7 +38,7 @@ Questions and Importance
 
 Question 1
 
-How does the type of bias in reported hate crimes relate to the age group of the victims and offenders, and how has this relationship changed over time?
+Which types of hate crimes occur most frequently, and how have the top offenses changed over time with respect to victim and offender demographics?
 
 Importance:
 Examines how organizations invest in high-volume roles and whether those employees are fairly compensated. Socially relevant for understanding potential undervaluation of essential jobs.
