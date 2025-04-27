@@ -38,7 +38,9 @@ Questions and Importance
 
 Question 1
 
-Which types of hate crimes occur most frequently, and how have the top offenses changed over time with respect to victim and offender demographics?
+How does the age of offenders (under 18 vs. over 18) vary across different types of hate crime biases?
+![image](https://github.com/user-attachments/assets/83f36c5b-0707-4391-8fc0-c4a00d3b36be)
+
 
 Importance:
 Examines how organizations invest in high-volume roles and whether those employees are fairly compensated. Socially relevant for understanding potential undervaluation of essential jobs.
