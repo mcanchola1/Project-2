@@ -39,7 +39,7 @@ Questions and Importance
 Question 1
 
 How does the age of offenders (under 18 vs. over 18) vary across different types of hate crime biases?
-![image](https://github.com/user-attachments/assets/83f36c5b-0707-4391-8fc0-c4a00d3b36be)
+![image](https://github.com/user-attachments/assets/fc8708b6-e47d-4b73-a840-9fcfb570f5b7)
 
 
 Importance:
