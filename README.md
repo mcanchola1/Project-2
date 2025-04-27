@@ -53,6 +53,9 @@ Uses: Average of Base Salary and Number of Employees columns
 Question 2
 
 During which years did hate crimes involving specific types of bias (e.g., Anti-Black, Anti-Gay, Anti-Jewish) peak, and what patterns emerge when comparing these spikes across time?
+<img width="1131" alt="Screenshot 2025-04-27 at 7 37 52 PM" src="https://github.com/user-attachments/assets/5ca48e9d-233d-4cf1-b923-e4c30dc258a6" />
+<img width="1108" alt="Screenshot 2025-04-27 at 7 44 48 PM" src="https://github.com/user-attachments/assets/fadea105-112e-4b6c-b43a-73a4c1e9236b" />
+
 
 Importance:
 Economically and organizationally important to ensure that salary progression aligns with increasing responsibility and expertise. Identifying inconsistencies may expose pay compression or outdated compensation structures.
