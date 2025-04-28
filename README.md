@@ -41,12 +41,10 @@ Question 1
 How does the age of offenders (under 18 vs. over 18) vary across different types of hate crime biases?
 ![image](https://github.com/user-attachments/assets/480592ea-8532-4dcf-bd3a-c7c3db989387)
 
-
-
 Importance:
-Examines how organizations invest in high-volume roles and whether those employees are fairly compensated. Socially relevant for understanding potential undervaluation of essential jobs.
+This graph compares the number of hate crimes by offenders over 18 and under 18 across different biases from 2017 to 2025. It shows that adults commit a majority of hate crimes, but certain biases, like Anti-Black and Anti-Gay (Male), have involvement from younger offenders. 
 
-Uses: Average of Base Salary and Number of Employees columns
+Uses: Target education and intervention efforts, especially among youth, to address bias-related violence early.
 
 <br>
 
