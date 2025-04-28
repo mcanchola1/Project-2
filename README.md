@@ -18,7 +18,7 @@ Dataset Name:
 Hate Crimes 2017-2025
 
 Source:
-[https://catalog.data.gov/dataset/average-salary-by-job-classification](https://catalog.data.gov/dataset/hate-crimes-2024)
+[https://catalog.data.gov/dataset/hate-crimes-2024](https://catalog.data.gov/dataset/hate-crimes-2024)
 
 Dimensions:
 293 rows × 5 columns (after cleaning)
