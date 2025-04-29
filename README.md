@@ -60,7 +60,6 @@ This insight supports targeted early-intervention and educational outreach, espe
 
 <img width="1018" alt="Screenshot 2025-04-29 at 2 01 15 PM" src="https://github.com/user-attachments/assets/b7c1d0d6-5fb3-4463-a105-3d12a063aafb" />
 
-
 **Importance:**  
 These graphs reveal temporal spikes in specific types of hate crimes. Notably, *Anti-Black* and *Anti-Jewish* incidents saw surges in certain years, often aligning with social or political events.
 
