@@ -1,99 +1,80 @@
-MIST 4610 – Group Project 2
-<br>
-Team Name
-MIST 4610 11:10 Group 8
+# MIST 4610 – Group Project 2
 
-<br>
-Team Members
+## Team Name:
+**MIST 4610 11:10 Group 8**
 
-Arnav Gupta,
-Melanie Canchola,
-Caroline Pitfield,
-Ainsley Myers
+## Team Members:
+1. Arnav Gupta [@ArnavGupta](https://www.github.com/akg93611)  
+2. Ainsley Myers [@AinsleyMyers](https://www.github.com/anm00752)  
+3. Caroline Pitfield [@CarolinePitfield](https://www.github.com/cgpitfield)  
+4. Melanie Canchola [@MelanieCanchola](https://www.github.com/mcanchola1)
 
-<br>
+---
 
-Dataset Description
-Dataset Name:
-Hate Crimes 2017-2025
+## Dataset Description
 
-Source:
-[https://catalog.data.gov/dataset/hate-crimes-2024](https://catalog.data.gov/dataset/hate-crimes-2024)
+**Dataset Name:** Hate Crimes 2017–2025  
+**Source:** [Data.gov – Hate Crimes Dataset (2024)](https://catalog.data.gov/dataset/hate-crimes-2024)  
+**Dimensions:** 267 rows × 15 columns
 
-Dimensions:
-293 rows × 5 columns (after cleaning)
+**Key Columns:**
+- Month (String)  
+- Incident Number (Integer)  
+- Date of Incident (Date/Time)  
+- Day of Week (String)  
+- Number of Victims under 18 (Integer)  
+- Number of Victims Over 18 (Integer)  
+- Number of Offenders under 18 (Integer)  
+- Number of Offenders Over 18 (Integer)  
+- Race/Ethnicity of Offenders (Categorical)  
+- Offense(s) (String)  
+- Offense Location (String)  
+- Bias (Categorical)  
+- Zip Code (Integer)  
+- APD Sector (Categorical)  
+- Council District (Integer)
 
-Columns Include:
+This dataset provides detailed information about hate crimes reported in the Austin area between 2017 and 2025. It includes demographics of both offenders and victims, offense types, bias categories, and geographic information.
 
+---
 
+## Analytical Questions and Visual Insights
 
-Data Types:
+### **Question 1:**  
+**How does the age of offenders (under 18 vs. over 18) vary across different types of hate crime biases?**
 
+![Offender Age by Bias Type](https://github.com/user-attachments/assets/480592ea-8532-4dcf-bd3a-c7c3db989387)
 
+**Importance:**  
+This chart compares offender age groups across bias types. While most hate crimes are committed by adults, some categories—like *Anti-Black* and *Anti-Gay (Male)*—show notable youth involvement.
 
-This dataset provides detailed salary information for various job positions and is suitable for examining patterns of compensation and workforce distribution.
+**Use Case:**  
+This insight supports targeted early-intervention and educational outreach, especially in schools and youth-focused programs.
 
-<br><br>
-Questions and Importance
+---
 
-Question 1
+### **Question 2:**  
+**During which years did hate crimes involving specific biases (e.g., Anti-Black, Anti-Gay, Anti-Jewish) peak, and what trends emerge over time?**
 
-How does the age of offenders (under 18 vs. over 18) vary across different types of hate crime biases?
-![image](https://github.com/user-attachments/assets/480592ea-8532-4dcf-bd3a-c7c3db989387)
+![Bias Trends 1](https://github.com/user-attachments/assets/5ca48e9d-233d-4cf1-b923-e4c30dc258a6)
 
-Importance:
-This graph compares the number of hate crimes by offenders over 18 and under 18 across different biases from 2017 to 2025. It shows that adults commit a majority of hate crimes, but certain biases, like Anti-Black and Anti-Gay (Male), have involvement from younger offenders. 
+![Bias Trends 2](https://github.com/user-attachments/assets/fadea105-112e-4b6c-b43a-73a4c1e9236b)
 
-Uses: Target education and intervention efforts, especially among youth, to address bias-related violence early.
+**Importance:**  
+These graphs reveal temporal spikes in specific types of hate crimes. Notably, *Anti-Black* and *Anti-Jewish* incidents saw surges in certain years, often aligning with social or political events.
 
-<br>
+**Use Case:**  
+Understanding these patterns enables better resource planning and helps advocacy groups or city officials respond proactively to emerging bias-related threats.
 
-Question 2
+**Note:**
+We showed both pre and post filtering for biases with consistent trends versus those which had very little frequency and therefore were unable to show trends over time.
 
-During which years did hate crimes involving specific types of bias (e.g., Anti-Black, Anti-Gay, Anti-Jewish) peak, and what patterns emerge when comparing these spikes across time?
-<img width="1131" alt="Screenshot 2025-04-27 at 7 37 52 PM" src="https://github.com/user-attachments/assets/5ca48e9d-233d-4cf1-b923-e4c30dc258a6" />
-<img width="1108" alt="Screenshot 2025-04-27 at 7 44 48 PM" src="https://github.com/user-attachments/assets/fadea105-112e-4b6c-b43a-73a4c1e9236b" />
+---
 
+## Tableau Packaged Workbook
 
-Importance:
-Economically and organizationally important to ensure that salary progression aligns with increasing responsibility and expertise. Identifying inconsistencies may expose pay compression or outdated compensation structures.
+📊 [**Download the Tableau Workbook**](./Project2Tableau.twb)
 
-Uses: Grade and Average of Base Salary columns
+This workbook includes interactive dashboards used to answer the questions above.
 
-
-<br><br>
-
-Data Manipulation
-
-We removed all rows where the Grade column contained letters (e.g., "A1", "MGMT", etc.) instead of being a strictly numeric value. This was necessary to treat grade values as numerical data for correlation analysis and trend plotting. This step ensures that salary comparisons across grades are valid and interpretable in Tableau.
-
-<br><be>
-
-Analysis & Results
-Visualizations Created in Tableau:
-
-Is there a relationship between the average base salary of a position and the number of employees in that position?
-
-<img width="607" alt="Screenshot 2025-04-17 at 12 11 11 PM" src="https://github.com/user-attachments/assets/ab717199-a6ab-473f-bd30-8a474c04a367" />
-
-Key Findings:
-
-Using a scatterplot, we are visualizing the average base salary in relation to the number of employees with the same position in the county, using the data from Average Salary by Job Classification. We found that there is no significant correlation between the number of employees in a position and the compensation those employees recieve.
-
-Is there a consistent correlation between job grade and average base salary across positions?   
-<img width="564" alt="Screenshot 2025-04-17 at 12 13 30 PM" src="https://github.com/user-attachments/assets/bc942eab-2408-4752-86f5-6c5e7fe26369" />
-
-Key Findings:
-
-We are using the data from Average Salary by Job Classification to analyze how the job grade for a position is increasing or changing and has a correlation to the average salary using a line chart. We found that generally the higher the numeric grade of an individual employee, the greater their compensation would be.
-   
-<br>
-
-
-
-
-<br><br>
-
-Tableau Packaged Workbook
-[Download Tableau Workbook](./Project2Tableau.twb) 
-
+---
