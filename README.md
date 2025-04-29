@@ -56,9 +56,10 @@ This insight supports targeted early-intervention and educational outreach, espe
 ### **Question 2:**  
 **During which years did hate crimes involving specific biases (e.g., Anti-Black, Anti-Gay, Anti-Jewish) peak, and what trends emerge over time?**
 
-![Bias Trends 1](https://github.com/user-attachments/assets/5ca48e9d-233d-4cf1-b923-e4c30dc258a6)
+<img width="680" alt="Screenshot 2025-04-29 at 2 01 25 PM" src="https://github.com/user-attachments/assets/d820d4a2-0f28-4430-909e-2da7b4ca3a26" />
 
-![Bias Trends 2](https://github.com/user-attachments/assets/fadea105-112e-4b6c-b43a-73a4c1e9236b)
+<img width="1018" alt="Screenshot 2025-04-29 at 2 01 15 PM" src="https://github.com/user-attachments/assets/b7c1d0d6-5fb3-4463-a105-3d12a063aafb" />
+
 
 **Importance:**  
 These graphs reveal temporal spikes in specific types of hate crimes. Notably, *Anti-Black* and *Anti-Jewish* incidents saw surges in certain years, often aligning with social or political events.
@@ -74,6 +75,7 @@ We showed both pre and post filtering for biases with consistent trends versus t
 ## Tableau Packaged Workbook
 
 📊 [**Download the Tableau Workbook**](./Project2Tableau.twb)
+[Project 2.twb.zip](https://github.com/user-attachments/files/19965398/Project.2.twb.zip)
 
 This workbook includes interactive dashboards used to answer the questions above.
 
