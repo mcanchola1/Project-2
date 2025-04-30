@@ -76,8 +76,7 @@ Understanding these patterns enables better resource planning and helps advocacy
 
 ## Tableau Packaged Workbook
 
-📊 [**Download the Tableau Workbook**](./Project2Tableau.twb)
-[Project 2.twb.zip](https://github.com/user-attachments/files/19965398/Project.2.twb.zip)
+📊 [**Download the Tableau Workbook**](./Project2.twbx)
 
 This workbook includes interactive dashboards used to answer the questions above.
 
