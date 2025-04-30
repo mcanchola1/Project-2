@@ -44,7 +44,9 @@ This dataset provides detailed information about hate crimes reported in the Aus
 **How does the age of offenders (under 18 vs. over 18) vary across different types of hate crime biases?**
 
 ![image](https://github.com/user-attachments/assets/be6f7fde-692a-405b-9023-a3d1ecadf131)
--The label marks are reprsenting the number of offenders under 18.
+
+**Note:**
+The label marks are only reprsenting the number of offenders under 18. The offenders under 18 are shown on a smaller scale than those over 18 due to the difference in offences. 
 
 **Importance:**  
 This chart compares offender age groups across bias types. While most hate crimes are committed by adults, some categories—like *Anti-Black* and *Anti-Gay (Male)*—show notable youth involvement.
@@ -61,14 +63,14 @@ This insight supports targeted early-intervention and educational outreach, espe
 
 <img width="1018" alt="Screenshot 2025-04-29 at 2 01 15 PM" src="https://github.com/user-attachments/assets/b7c1d0d6-5fb3-4463-a105-3d12a063aafb" />
 
+**Note:**
+We showed both pre and post filtering for biases with consistent trends versus those which had very little frequency and therefore were unable to show trends over time.
+
 **Importance:**  
 These graphs reveal temporal spikes in specific types of hate crimes. Notably, *Anti-Black* and *Anti-Jewish* incidents saw surges in certain years, often aligning with social or political events.
 
 **Use Case:**  
 Understanding these patterns enables better resource planning and helps advocacy groups or city officials respond proactively to emerging bias-related threats.
-
-**Note:**
-We showed both pre and post filtering for biases with consistent trends versus those which had very little frequency and therefore were unable to show trends over time.
 
 ---
 
