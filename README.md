@@ -43,10 +43,7 @@ This dataset provides detailed information about hate crimes reported in the Aus
 ### **Question 1:**  
 **How does the age of offenders (under 18 vs. over 18) vary across different types of hate crime biases?**
 
-![image](https://github.com/user-attachments/assets/be6f7fde-692a-405b-9023-a3d1ecadf131)
-
-**Note:**
-The label marks are only reprsenting the number of offenders under 18. The offenders under 18 are shown on a smaller scale than those over 18 due to the difference in offences. 
+![image](https://github.com/user-attachments/assets/f7ff00b7-81b2-4c7a-9e67-3a4de1e1f44b)
 
 **Importance:**  
 This chart compares offender age groups across bias types. While most hate crimes are committed by adults, some categories—like *Anti-Black* and *Anti-Gay (Male)*—show notable youth involvement.
